@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Hp+wnHNT96YM79YuXppO/JOWKUuWx4rJK3BYWVamLB/br5pjFRWsBEFbecwSZTaXLg4sXVf4JvJKjaL3PK28A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\source\\repos\\практа 2 шарпы\\практа 2 шарпы\\практа 2 шарпы.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
